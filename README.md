@@ -75,4 +75,3 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 | Example Color | ![#729de0](https://via.placeholder.com/10/0a192f?text=+) #729de0 |
 | Example Color | ![#433a7a](https://via.placeholder.com/10/f8f8f8?text=+) #433a7a |
 | Example Color | ![#020108](https://via.placeholder.com/10/00b48a?text=+) #020108 |
-|
