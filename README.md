@@ -1,4 +1,4 @@
-# Cosmic Flies
+# Cosmic_Flies
 
 A small project for managing "cosmic flies" items — API and simple frontend utilities.
 
